@@ -11,7 +11,7 @@
 **Professional-grade Formula 1 race data intelligence platform.**  
 Compare drivers, explore telemetry, analyze tyre strategy, and visualize G-forces — all in one dark-themed interactive dashboard.
 
-![Dashboard Preview](https://raw.githubusercontent.com/your-username/f1-telemetry-analysis-tool/main/assets/preview.png)
+![For the Test](https://f1-fanmade-telemetry-analysis-tool.streamlit.app)
 
 </div>
 
