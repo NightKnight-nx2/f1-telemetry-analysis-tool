@@ -29,8 +29,6 @@ Compare drivers, explore telemetry, analyze tyre strategy, and visualize G-force
 
 ---
 
-## 🖼️ Screenshots
-
 <details>
 <summary>Click to expand</summary>
 
